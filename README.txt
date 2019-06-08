@@ -1,3 +1,5 @@
+Any sensitive information within the code and README has been replaced with "###"
+
 README file for KPI scripts and running Grafana
 Written by Tom Morgan - 28-05-2019
 I can be contacted at morgan.tom93@gmail.com if there are any questions. I have commented the code so it should be easy to read.
